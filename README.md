@@ -3,7 +3,7 @@
 > ⚠️ **Warning**
 > This is experimental code intended for demonstration and learning purposes. Use at your own risk in production environments.
 
-A comprehensive solution for bidirectional user provisioning between **Okta** and an on-premise **Microsoft SQL Server** database using the SCIM (System for Cross-domain Identity Management) protocol.
+Connector for bidirectional user provisioning between **Okta** and an on-premise **Microsoft SQL Server** database using the SCIM (System for Cross-domain Identity Management) protocol.
 
 ---
 
